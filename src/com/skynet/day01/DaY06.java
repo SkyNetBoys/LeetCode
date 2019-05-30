@@ -14,6 +14,6 @@ public class DaY06 {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(isPalindrome(12312));
+		System.out.println(isPalindrome(-12312));
 	}
 }
